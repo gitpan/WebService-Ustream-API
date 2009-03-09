@@ -2,7 +2,7 @@ package WebService::Ustream::API;
 
 use strict;
 use warnings;
-use version; our $VERSION = '0.01';
+use version; our $VERSION = '0.02';
 
 use base qw(Class::Accessor::Fast);
 
