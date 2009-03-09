@@ -1,0 +1,6 @@
+Revision history for Perl extension WebService::Ustream::API.
+
+0.01  Sat Mar  7 12:25:58 2009
+	- original version; created by h2xs 1.23 with options
+		-XA -n WebService::Ustream::API
+
