@@ -2,7 +2,7 @@ package main;
 use strict;
 use warnings;
 use utf8;
-our $VERSION = eval { require version; version::qv('0.02') };
+our $VERSION = eval { require version; version::qv('0.03') };
 
 use inc::Module::Install;
 eval {

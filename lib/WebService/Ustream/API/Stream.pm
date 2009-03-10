@@ -6,7 +6,7 @@ use Carp;
 use LWP::UserAgent;
 use XML::Simple;
 
-use version; our $VERSION = '0.02';
+use version; our $VERSION = '0.03';
 
 use base qw(Class::Accessor::Fast);
 

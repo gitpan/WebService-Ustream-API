@@ -2,7 +2,7 @@ package WebService::Ustream::API;
 
 use strict;
 use warnings;
-use version; our $VERSION = '0.02';
+use version; our $VERSION = '0.03';
 
 use base qw(Class::Accessor::Fast);
 
@@ -32,7 +32,7 @@ __END__
 
 =head1 NAME
 
-WebService::Ustream::API - Perl interface to Ustream
+WebService::Ustream::API - Perl interface to Ustream API Service
 
 =head1 SYNOPSIS
 

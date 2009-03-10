@@ -3,7 +3,7 @@ author:
 distribution_type: module
 license: perl
 name:         WebService-Ustream-API
-version:      0.02
+version:      0.03
 version_from: lib/WebService/Ustream/API.pm
 installdirs:  site
 requires:
